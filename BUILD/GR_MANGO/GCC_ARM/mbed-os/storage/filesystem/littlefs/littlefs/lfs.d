@@ -1,0 +1,12 @@
+BUILD\GR_MANGO\GCC_ARM\mbed-os\storage\filesystem\littlefs\littlefs\lfs.o: \
+ mbed-os\storage\filesystem\littlefs\littlefs\lfs.c \
+ BUILD\GR_MANGO\GCC_ARM\mbed_config.h \
+ mbed-os\storage\filesystem\littlefs\littlefs\lfs.h \
+ mbed-os\storage\filesystem\littlefs\littlefs\lfs_util.h \
+ mbed-os/platform/include/platform/mbed_debug.h \
+ mbed-os/platform/include/platform/mbed_toolchain.h \
+ mbed-os/platform/include/platform/mbed_preprocessor.h \
+ mbed-os/platform/include/platform/mbed_assert.h \
+ mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_A/Include/cmsis_compiler.h \
+ mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_A/Include/cmsis_gcc.h \
+ mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_A/Include/cmsis_cp15.h

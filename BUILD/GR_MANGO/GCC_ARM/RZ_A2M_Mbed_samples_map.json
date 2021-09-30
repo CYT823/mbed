@@ -1,0 +1,395 @@
+[
+    {
+        "module": "[fill]",
+        "size": {
+            ".text": 272,
+            ".data": 21,
+            ".bss": 227,
+            ".text-delta": -60,
+            ".data-delta": 8,
+            ".bss-delta": 21
+        }
+    },
+    {
+        "module": "[lib]\\c.a",
+        "size": {
+            ".text": 81940,
+            ".data": 2574,
+            ".bss": 127,
+            ".text-delta": -3704,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\gcc.a",
+        "size": {
+            ".text": 6628,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -224,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\m.a",
+        "size": {
+            ".text": 3892,
+            ".data": 1,
+            ".bss": 0,
+            ".text-delta": -3024,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\misc",
+        "size": {
+            ".text": 312,
+            ".data": 4,
+            ".bss": 28,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\nosys.a",
+        "size": {
+            ".text": 40,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\opencv_core320.a",
+        "size": {
+            ".text": 316656,
+            ".data": 424,
+            ".bss": 1208,
+            ".text-delta": -39504,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\opencv_imgproc320.a",
+        "size": {
+            ".text": 2148,
+            ".data": 128,
+            ".bss": 550993,
+            ".text-delta": -242348,
+            ".data-delta": -4,
+            ".bss-delta": -59394
+        }
+    },
+    {
+        "module": "[lib]\\opencv_objdetect320.a",
+        "size": {
+            ".text": 7724,
+            ".data": 0,
+            ".bss": 6,
+            ".text-delta": -45784,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\stdc++.a",
+        "size": {
+            ".text": 186904,
+            ".data": 145,
+            ".bss": 5724,
+            ".text-delta": -1560,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[misc]",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\AlarmTimer",
+        "size": {
+            ".text": 20,
+            ".data": 0,
+            ".bss": 16,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\AsciiFont",
+        "size": {
+            ".text": 520,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 520,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\EasyAttach_CameraAndLCD",
+        "size": {
+            ".text": 1488,
+            ".data": 4,
+            ".bss": 32,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\EasyPlayback",
+        "size": {
+            ".text": 20,
+            ".data": 0,
+            ".bss": 16,
+            ".text-delta": -3392,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\GR-PEACH_video",
+        "size": {
+            ".text": 21712,
+            ".data": 0,
+            ".bss": 181,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\GraphicsFramework",
+        "size": {
+            ".text": 52,
+            ".data": 0,
+            ".bss": 20,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\R_BSP",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -13396,
+            ".data-delta": 0,
+            ".bss-delta": -10573
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\SDBlockDevice_GRBoard",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -22924,
+            ".data-delta": -64,
+            ".bss-delta": -680
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\USBHost_custom",
+        "size": {
+            ".text": 112,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -17848,
+            ".data-delta": -4,
+            ".bss-delta": -56
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\components",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -3200,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\dcache-control",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -100,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\drp-for-mbed",
+        "size": {
+            ".text": 11080,
+            ".data": 0,
+            ".bss": 123,
+            ".text-delta": -1560,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-gr-libs\\utility",
+        "size": {
+            ".text": 12,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\cmsis",
+        "size": {
+            ".text": 15328,
+            ".data": 173,
+            ".bss": 14136,
+            ".text-delta": -1152,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\connectivity",
+        "size": {
+            ".text": 156,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\drivers",
+        "size": {
+            ".text": 1828,
+            ".data": 0,
+            ".bss": 44,
+            ".text-delta": -712,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\hal",
+        "size": {
+            ".text": 2212,
+            ".data": 4,
+            ".bss": 67,
+            ".text-delta": -272,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\platform",
+        "size": {
+            ".text": 4604,
+            ".data": 260,
+            ".bss": 268,
+            ".text-delta": -2000,
+            ".data-delta": -16,
+            ".bss-delta": -128
+        }
+    },
+    {
+        "module": "mbed-os\\rtos",
+        "size": {
+            ".text": 1488,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -56,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\storage",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -23768,
+            ".data-delta": 0,
+            ".bss-delta": -75
+        }
+    },
+    {
+        "module": "mbed-os\\targets",
+        "size": {
+            ".text": 10516,
+            ".data": 6,
+            ".bss": 101,
+            ".text-delta": -256,
+            ".data-delta": 0,
+            ".bss-delta": 36
+        }
+    },
+    {
+        "module": "sample_programs\\FaceApp",
+        "size": {
+            ".text": 160,
+            ".data": 0,
+            ".bss": 9,
+            ".text-delta": -488,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "sample_programs\\sample_23_mipi_hdmi.o",
+        "size": {
+            ".text": 1192,
+            ".data": 0,
+            ".bss": 2765162,
+            ".text-delta": 1192,
+            ".data-delta": 0,
+            ".bss-delta": 2765162
+        }
+    },
+    {
+        "module": "sample_programs\\sample_24_facedetection.o",
+        "size": {
+            ".text": 0,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": -3444,
+            ".data-delta": 0,
+            ".bss-delta": -1598097
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 3342232,
+            "static_ram_delta": 1096136,
+            "total_flash": 682760,
+            "total_flash_delta": -429144
+        }
+    }
+]

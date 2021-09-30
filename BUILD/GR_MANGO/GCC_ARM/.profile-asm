@@ -1,0 +1,20 @@
+{
+    "flags": [
+        "-c",
+        "-x",
+        "assembler-with-cpp"
+    ],
+    "macros": [],
+    "symbols": [
+        "ARM_MATH_CA9",
+        "MBEDTLS_NO_DEFAULT_ENTROPY_SOURCES",
+        "MBEDTLS_TEST_NULL_ENTROPY",
+        "MBEDTLS_USER_CONFIG_FILE=\"mbedtls_entropy_config.h\"",
+        "MBED_CONF_APP_MAIN_STACK_SIZE=8192",
+        "__CMSIS_RTOS",
+        "__CORTEX_A9",
+        "__EVAL",
+        "__FPU_PRESENT",
+        "__MBED_CMSIS_RTOS_CA9"
+    ]
+}
