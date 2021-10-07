@@ -304,7 +304,6 @@ BUILD\GR_MANGO\GCC_ARM\mipi_hdmi.o: mipi_hdmi.cpp \
  mbed-gr-libs/GR-PEACH_video/targets/TARGET_RZ_A2XX/drivers/r_mipi/inc/r_mipi_user.h \
  mbed-gr-libs/components/LCD/LCD_config_rgb_to_hdmi/LCD_config_rgb_to_hdmi.h \
  mbed-gr-libs/components/LCD/LCD_config_rgb_to_hdmi/LcdCfg_rgb_to_hdmi.h \
- mbed-gr-libs/AsciiFont/AsciiFont.h \
  mbed-gr-libs/drp-for-mbed/TARGET_RZ_A2XX/r_drp/inc/r_dk2_if.h \
  mbed-gr-libs/drp-for-mbed/TARGET_RZ_A2XX/r_drp/drp_lib/r_drp_simple_isp.h \
  FaceApp/face_detector.hpp opencv-lib/include/opencv2/opencv.hpp \
