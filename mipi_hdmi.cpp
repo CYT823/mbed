@@ -232,7 +232,6 @@ static void drp_task(void) {
         /************************/
         R_DK2_Activate(0, 0);
 
-        /* Set ISP parameters */
         memset(&param_isp, 0, sizeof(param_isp));
         /* ISP source: camera image buffer */
         param_isp.src    = (uint32_t)fbuf_bayer; 

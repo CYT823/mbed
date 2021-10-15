@@ -16,9 +16,9 @@
             ".text": 356,
             ".data": 13,
             ".bss": 223,
-            ".text-delta": -4,
+            ".text-delta": 0,
             ".data-delta": 0,
-            ".bss-delta": -36
+            ".bss-delta": 0
         }
     },
     {
@@ -236,7 +236,7 @@
             ".text": 200,
             ".data": 0,
             ".bss": 0,
-            ".text-delta": 44,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -247,7 +247,7 @@
             ".text": 2100,
             ".data": 0,
             ".bss": 0,
-            ".text-delta": 332,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -302,9 +302,9 @@
             ".text": 12556,
             ".data": 6,
             ".bss": 117,
-            ".text-delta": 772,
+            ".text-delta": 0,
             ".data-delta": 0,
-            ".bss-delta": 36
+            ".bss-delta": 0
         }
     },
     {
@@ -313,7 +313,7 @@
             ".text": 2280,
             ".data": 0,
             ".bss": 1597841,
-            ".text-delta": 72,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -323,7 +323,7 @@
             "static_ram": 2235232,
             "static_ram_delta": 0,
             "total_flash": 1090976,
-            "total_flash_delta": 1216
+            "total_flash_delta": 0
         }
     }
 ]
